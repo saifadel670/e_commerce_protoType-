@@ -1,0 +1,77 @@
+.spinner-grow{
+    width: 3.5rem;
+    height: 3.5rem;
+}
+
+li{
+    font-size: 2rem;
+}
+
+
+
+#count{
+    position: relative;
+    bottom: 30px;
+    right: 25px;
+    font-size: 20px;
+    font: bold;
+    color:black;
+}
+.fa, .fas {
+    font-weight: -900;
+}
+
+.fa-window-close{
+    margin-left: 39px;
+    margin-top: -13PX;
+    font-size: 27px;
+    color: red;
+}
+
+.img{
+    height: 250px;
+    width: 250px;
+}
+
+
+.containerTmp{
+
+    margin-top: 35px;
+    margin-left: 100px;
+}
+
+.card-body{
+    overflow-x:auto;
+    display: inline-block;
+    overflow: hidden
+}
+.bodyPart{
+    padding-top: 40px;
+}
+
+.size{
+    width: 150px;
+}
+.path{
+    width: 50px;
+}
+
+.detailsbody
+{
+    display: none;
+
+}
+
+.firstBody{
+    display: block;
+}
+
+.oneLine{
+    display: inline;
+}
+p.oneLine{
+    padding-left: 10px;
+    margin-top: 0px;
+    height: 40px;
+    width: 40px;
+}
